@@ -1,6 +1,6 @@
 {
   "$schema": "./plugin.schema.json",
-  "name": "better-imageviewer",
+  "name": "qwqnt-better-image-viewer",
   "description": "更好的图片查看器",
   "version": "1.0.0",
   "main": "./src/empty.js",

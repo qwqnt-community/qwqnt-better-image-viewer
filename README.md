@@ -1,4 +1,4 @@
-# QwQNT-better-imageviewer
+# qwqnt-better-image-viewer
 
 更好的图片查看器
 
